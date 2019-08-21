@@ -1,0 +1,391 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<View
+  keyboardVerticalOffset={0}
+  onLayout={[Function]}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "cornflowerblue",
+        "flex": 1,
+      },
+      Object {
+        "paddingBottom": 0,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "cornflowerblue",
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexGrow": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "white",
+            "fontSize": 30,
+            "justifyContent": "center",
+            "marginBottom": 10,
+            "opacity": 0.9,
+          }
+        }
+      >
+         DCU Library App
+      </Text>
+      <Image
+        source={
+          Object {
+            "process": [Function],
+          }
+        }
+        style={
+          Object {
+            "height": 150,
+            "width": 200,
+          }
+        }
+      />
+    </View>
+    <TextInput
+      allowFontScaling={true}
+      autoCapitalize="none"
+      autoCorrect={false}
+      onChangeText={[Function]}
+      placeholder="6 Digit Number"
+      placeholderTextColor="white"
+      returnKeyType="next"
+      style={
+        Object {
+          "backgroundColor": "rgba(255,255,255,0.2)",
+          "borderRadius": 25,
+          "color": "white",
+          "height": 40,
+          "marginBottom": 15,
+          "paddingHorizontal": 10,
+        }
+      }
+    />
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "steelblue",
+          "borderRadius": 25,
+          "marginBottom": 15,
+          "opacity": 1,
+          "paddingVertical": 15,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "white",
+            "fontWeight": "400",
+            "textAlign": "center",
+          }
+        }
+      >
+         Confirm code
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Confirm Code Confirm Code works 1`] = `
+<View
+  keyboardVerticalOffset={0}
+  onLayout={[Function]}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "cornflowerblue",
+        "flex": 1,
+      },
+      Object {
+        "paddingBottom": 0,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "cornflowerblue",
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexGrow": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "white",
+            "fontSize": 30,
+            "justifyContent": "center",
+            "marginBottom": 10,
+            "opacity": 0.9,
+          }
+        }
+      >
+         DCU Library App
+      </Text>
+      <Image
+        source={
+          Object {
+            "process": [Function],
+          }
+        }
+        style={
+          Object {
+            "height": 150,
+            "width": 200,
+          }
+        }
+      />
+    </View>
+    <TextInput
+      allowFontScaling={true}
+      autoCapitalize="none"
+      autoCorrect={false}
+      onChangeText={[Function]}
+      placeholder="6 Digit Number"
+      placeholderTextColor="white"
+      returnKeyType="next"
+      style={
+        Object {
+          "backgroundColor": "rgba(255,255,255,0.2)",
+          "borderRadius": 25,
+          "color": "white",
+          "height": 40,
+          "marginBottom": 15,
+          "paddingHorizontal": 10,
+        }
+      }
+    />
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "steelblue",
+          "borderRadius": 25,
+          "marginBottom": 15,
+          "opacity": 1,
+          "paddingVertical": 15,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "white",
+            "fontWeight": "400",
+            "textAlign": "center",
+          }
+        }
+      >
+         Confirm code
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Confirm Code touchableOpacity 1 touch works 1`] = `
+<View
+  keyboardVerticalOffset={0}
+  onLayout={[Function]}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "cornflowerblue",
+        "flex": 1,
+      },
+      Object {
+        "paddingBottom": 0,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "cornflowerblue",
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexGrow": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "white",
+            "fontSize": 30,
+            "justifyContent": "center",
+            "marginBottom": 10,
+            "opacity": 0.9,
+          }
+        }
+      >
+         DCU Library App
+      </Text>
+      <Image
+        source={
+          Object {
+            "process": [Function],
+          }
+        }
+        style={
+          Object {
+            "height": 150,
+            "width": 200,
+          }
+        }
+      />
+    </View>
+    <TextInput
+      allowFontScaling={true}
+      autoCapitalize="none"
+      autoCorrect={false}
+      onChangeText={[Function]}
+      placeholder="6 Digit Number"
+      placeholderTextColor="white"
+      returnKeyType="next"
+      style={
+        Object {
+          "backgroundColor": "rgba(255,255,255,0.2)",
+          "borderRadius": 25,
+          "color": "white",
+          "height": 40,
+          "marginBottom": 15,
+          "paddingHorizontal": 10,
+        }
+      }
+    />
+    <View
+      accessibilityComponentType={undefined}
+      accessibilityLabel={undefined}
+      accessibilityTraits={undefined}
+      accessible={true}
+      collapsable={undefined}
+      hasTVPreferredFocus={undefined}
+      hitSlop={undefined}
+      isTVSelectable={true}
+      nativeID={undefined}
+      onLayout={undefined}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "steelblue",
+          "borderRadius": 25,
+          "marginBottom": 15,
+          "opacity": 1,
+          "paddingVertical": 15,
+        }
+      }
+      testID={undefined}
+      tvParallaxProperties={undefined}
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "white",
+            "fontWeight": "400",
+            "textAlign": "center",
+          }
+        }
+      >
+         Confirm code
+      </Text>
+    </View>
+  </View>
+</View>
+`;

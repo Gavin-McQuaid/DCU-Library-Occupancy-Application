@@ -1,0 +1,8 @@
+<?php
+
+define('DB_SERVER', 'localhost');
+define('DB_USERNAME', 'joebloggs');
+define('DB_PASSWORD', 'password');
+define('DB_DATABASE', 'DcuLibApp');
+
+?>

@@ -1,0 +1,26 @@
+{
+  "name": "App",
+  "displayName":"App",
+  "expo": {
+    "name": "3rdyearproject",
+    "description": "This project is really great.",
+    "slug": "3rdyearproject",
+    "privacy": "public",
+    "sdkVersion": "25.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./images/logo.png",
+    "splash": {
+      "image": "./images/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+
+
+  }
+
